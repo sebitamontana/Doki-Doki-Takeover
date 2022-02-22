@@ -48,5 +48,5 @@ DDLC+ Links: **[DDLC+ Official Website](http://ddlc.plus) ⋅ [Steam page](https
 - [Team Salvato](https://twitter.com/TeamSalvato) - Publishers of DDLC
 
 ### Kade Engine
-- [KadeDev](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
+- [KadeDev](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer 
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
